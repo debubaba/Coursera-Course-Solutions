@@ -1,13 +1,5 @@
-# Coursera-WebDev-JHU-Assignments
-
-###HTML, CSS, JavaScript for Web Developers
-####Johns Hopkins University
-#####Coursera
-<hr>
-This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments for the course HTML, CSS, JavaScript for Web Developers by Johns Hopkins University on Coursera. <br>
-
-<b>Solution Links:</b> <br>
-- [Module 2 Solution](https://debubaba.github.io/Coursera-Course-Solutions/module-2-solution/index.html) <br>
-- [Module 3 Solution](https://debubaba.github.io/Coursera-Course-Solutions/module-3-solution/index.html) <br>
-- [Module 4 Solution](https://debubaba.github.io/Coursera-Course-Solutions/module-4-solution/index.html) <br>
-- [Module 5 Solution](https://debubaba.github.io/Coursera-Course-Solutions/module-5-solution/index.html) <br>
+Links<br />
+2: (https://debubaba.github.io/Coursera-Course-Solutions/module-2-solution/index.html) <br>
+3: (https://debubaba.github.io/Coursera-Course-Solutions/module-3-solution/index.html) <br>
+4: (https://debubaba.github.io/Coursera-Course-Solutions/module-4-solution/index.html) <br>
+5: (https://debubaba.github.io/Coursera-Course-Solutions/module-5-solution/index.html) <br>
